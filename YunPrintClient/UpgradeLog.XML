@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileUpload">
+</Property><Property Name="Solution File" Value="C:\Users\imdadhusen\Downloads\FileUpload\SmartFileUpload\FileUpload.sln">
+</Property><Property Name="User Options File" Value="C:\Users\imdadhusen\Downloads\FileUpload\SmartFileUpload\FileUpload.suo">
+</Property><Property Name="Date" Value="Saturday, July 21, 2012">
+</Property><Property Name="Time" Value="10:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileUpload.sln" Description="File successfully backed up as C:\Users\imdadhusen\Downloads\FileUpload\SmartFileUpload\Backup\FileUpload.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FileUpload.suo" Description="File successfully backed up as C:\Users\imdadhusen\Downloads\FileUpload\SmartFileUpload\Backup\FileUpload.suo">
+</Event><Event ErrorLevel="1" Project="FileUpload" Source="..\FileUpload" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="C:\Users\imdadhusen\Downloads\FileUpload\FileUpload" Source="..\FileUpload" Description="ERROR: Failed to back up Web site C:\Users\imdadhusen\Downloads\FileUpload\FileUpload">
+</Event><Event ErrorLevel="0" Project="" Source="FileUpload.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileUpload.sln" Description="Converted">
+</Event></UpgradeLog>

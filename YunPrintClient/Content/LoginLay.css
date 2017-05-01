@@ -1,0 +1,81 @@
+﻿
+
+
+
+
+        /*主界面布局*/
+        .area {
+            width: 1050px;
+            height: 750px;
+            margin: 0px auto;
+            margin-top: 25px;
+            background-color: antiquewhite;
+            border: thick,1px;
+        }
+
+        .tr-height {
+            height: 30px;
+        }
+
+        .tr-button1 {
+            height: 25px;
+            width: 60px;
+            left: 10px;
+            margin-left: 10px;
+            margin-bottom: 5px;
+        }
+
+        .tr-button2 {
+            height: 25px;
+            width: 60px;
+            margin-left: 60px;
+            margin-bottom: 5px;
+        }
+
+        .guide1 {
+            position: absolute;
+            left: 25px;
+            top: 325px;
+        }
+
+        .guide2 {
+            position: absolute;
+            left: 225px;
+            top: 325px;
+        }
+
+        .guide3 {
+            position: absolute;
+            left: 425px;
+            top: 325px;
+        }
+
+        .guide4 {
+            position: absolute;
+            left: 625px;
+            top: 325px;
+        }
+
+        .reference1 {
+            position: absolute;
+            left: 160px;
+            top: 375px;
+        }
+
+        .reference2 {
+            position: absolute;
+            left: 360px;
+            top: 375px;
+        }
+
+        .reference3 {
+            position: absolute;
+            left: 560px;
+            top: 375px;
+        }
+
+        .auto-style1 {
+            height: 24px;
+        }
+
+        
